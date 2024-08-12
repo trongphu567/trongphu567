@@ -8,7 +8,7 @@ I've been learning to code for 4 years. I started with Python, but have really f
 
 *   🌍  I'm based in Vietnam
 *   ✉️  You can contact me at [trongphu543210@gmail.com](mailto:trongphu543210@gmail.com)
-*   🚀  I'm currently working on [my-blog](http://github.com/trongphu567/my-blog)
+*   🚀  I'm currently working on [my-blog](http://github.com/trongphu567/music-player)
 *   🧠  I'm learning JavaScript and React, Spring
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I think I am a hard-working person who listens and learns from friends and others.
